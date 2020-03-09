@@ -1,0 +1,11 @@
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.exe
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.deps.json
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.runtimeconfig.json
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.runtimeconfig.dev.json
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.dll
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\bin\Debug\netcoreapp3.1\Deliverables2.pdb
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\obj\Debug\netcoreapp3.1\Deliverables2.csprojAssemblyReference.cache
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\obj\Debug\netcoreapp3.1\Deliverables2.AssemblyInfoInputs.cache
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\obj\Debug\netcoreapp3.1\Deliverables2.AssemblyInfo.cs
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\obj\Debug\netcoreapp3.1\Deliverables2.dll
+C:\Users\jmcki\source\repos\Deliverables2\Deliverables2\obj\Debug\netcoreapp3.1\Deliverables2.pdb
